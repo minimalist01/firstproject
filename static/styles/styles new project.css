@@ -1,0 +1,31 @@
+html {
+    font-size: 30px;
+}
+
+p {
+font-size: 2em;
+}
+
+div {
+    width: 300px;
+    height: 300px;
+    margin: 4em;
+    font-size: 0.5rem;
+
+}
+
+#yellow {
+    background-color: yellow;
+}
+
+#green {
+    background-color: green;
+}
+
+#red {
+    background-color: red;
+}
+
+#blue {
+    background-color: blue;
+}
